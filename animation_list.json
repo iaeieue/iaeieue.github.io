@@ -81,5 +81,20 @@
         "name":"cutscene_char061303",
         "id":"cutscene_char061303",
         "version": 4.1
+    },
+    {
+        "name":"cutscene_char060706",
+        "id":"cutscene_char060706",
+        "version": 4.1
+    },
+    {
+        "name":"cutscene_char065102",
+        "id":"cutscene_char065102",
+        "version": 4.1
+    },
+    {
+        "name":"cutscene_char067301",
+        "id":"cutscene_char067301",
+        "version": 4.1
     }
 ]

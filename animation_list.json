@@ -1,12 +1,85 @@
 [
     {
-        "name": "Spine Boy",
-        "id": "spine_boy",
-        "version": 4.0
+        "name":"char101102",
+        "id":"cutscene_char101102",
+        "version": 4.1
     },
     {
-        "name":"Neon",
-        "id":"neon",
+        "name":"char001206",
+        "id":"char001206",
+        "version": 4.1
+    },
+    {
+        "name":"char001207",
+        "id":"char001207",
+        "version": 4.1
+    },
+
+    {
+        "name":"char002406",
+        "id":"char002406",
+        "version": 4.1
+    },
+
+    {
+        "name":"char003001",
+        "id":"char003001",
+        "version": 4.1
+    },
+
+    {
+        "name":"char020001",
+        "id":"char020001",
+        "version": 4.1
+    },
+
+    {
+        "name":"char020002",
+        "id":"char020002",
+        "version": 4.1
+    },
+
+    {
+        "name":"char020101",
+        "id":"char020101",
+        "version": 4.1
+    },
+
+    {
+        "name":"char020102",
+        "id":"char020102",
+        "version": 4.1
+    },
+
+    {
+        "name":"char060301",
+        "id":"char060301",
+        "version": 4.1
+    },
+
+    {
+        "name":"char060302",
+        "id":"char060302",
+        "version": 4.1
+    },
+    {
+        "name":"char002401",
+        "id":"char002401",
+        "version": 4.1
+    },
+    {
+        "name":"cutscene_char020001",
+        "id":"cutscene_char020001",
+        "version": 4.1
+    },
+    {
+        "name":"cutscene_char020002",
+        "id":"cutscene_char020002",
+        "version": 4.1
+    },
+    {
+        "name":"cutscene_char061303",
+        "id":"cutscene_char061303",
         "version": 4.1
     }
 ]

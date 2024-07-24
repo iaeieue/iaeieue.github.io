@@ -1,5 +1,170 @@
 [
     {
+        "name":"悠絲緹亞 - 皎潔死神",
+        "id":"cutscene_char000202",
+        "version": 4.1
+    },
+    {
+        "name":"悠絲緹亞 - 血之貪食者",
+        "id":"cutscene_char000203",
+        "version": 4.1
+    },
+    {
+        "name":"悠絲緹亞 - 劍道社",
+        "id":"cutscene_char000204",
+        "version": 4.1
+    },
+    {
+        "name":"悠絲緹亞 - 泳池派對",
+        "id":"cutscene_char000206",
+        "version": 4.1
+    },
+    {
+        "name":"莎赫拉查德 - 蒼藍魔女",
+        "id":"cutscene_char000301",
+        "version": 4.1
+    },
+    {
+        "name":"莎赫拉查德 - 魔法學校教授",
+        "id":"cutscene_char000303",
+        "version": 4.1
+    },
+    {
+        "name":"莎赫拉查德 - 代號S",
+        "id":"cutscene_char000304",
+        "version": 4.1
+    },
+    {
+        "name":"莎赫拉查德 - 泳池派對",
+        "id":"cutscene_char000306",
+        "version": 4.1
+    },
+    {
+        "name":"魯 - 小紅帽",
+        "id":"cutscene_char000502",
+        "version": 4.1
+    },
+    {
+        "name":"魯 - 自然的腳爪",
+        "id":"CutScene_Char000504",
+        "version": 4.1
+    },
+    {
+        "name":"魯 - 流浪貓",
+        "id":"cutscene_char000506",
+        "version": 4.1
+    },
+    {
+        "name":"露比雅 - 大海女帝",
+        "id":"cutscene_char000804",
+        "version": 4.1
+    },
+    {
+        "name":"露比雅 - 女僕代號C",
+        "id":"cutscene_char000806",
+        "version": 4.1
+    },
+    {
+        "name":"席比雅 - 沙漠之花",
+        "id":"cutscene_char001001",
+        "version": 4.1
+    },
+    {
+        "name":"席比雅 - 劍后",
+        "id":"cutscene_char001002",
+        "version": 4.1
+    },
+    {
+        "name":"席比雅 - 海軍隊長",
+        "id":"cutscene_char001004",
+        "version": 4.1
+    },
+    {
+        "name":"泰瑞絲 - 破壞的天使",
+        "id":"cutscene_char001101",
+        "version": 4.1
+    },
+    {
+        "name":"泰瑞絲 - 保健社",
+        "id":"cutscene_char001106",
+        "version": 4.1
+    },
+    {
+        "name":"莉亞特里斯 - 羅戴夫之星",
+        "id":"CutScene_Char001201",
+        "version": 4.1
+    },
+    {
+        "name":"莉亞特里斯 - 霓虹跟蹤狂",
+        "id":"cutscene_char001206",
+        "version": 4.1
+    },
+    {
+        "name":"莉亞特里斯 - 女僕代號R",
+        "id":"cutscene_char001207",
+        "version": 4.1
+    },
+    {
+        "name":"黛安娜 - 未知的探究者",
+        "id":"cutscene_char002401",
+        "version": 4.1
+    },
+    {
+        "name":"黛安娜 - 反烏托邦",
+        "id":"cutscene_char002406",
+        "version": 4.1
+    },
+    {
+        "name":"厄爾比斯 - 救贖之手",
+        "id":"cutscene_char003101",
+        "version": 4.1
+    },
+    {
+        "name":"羅安 - 最後希望",
+        "id":"cutscene_char003201",
+        "version": 4.1
+    },
+    {
+        "name":"羅安 - 田徑社社員",
+        "id":"cutscene_char003202",
+        "version": 4.1
+    },
+    {
+        "name":"內布利斯 - 鬆散的救生員",
+        "id":"cutscene_char003302",
+        "version": 4.1
+    },
+    {
+        "name":"神聖悠絲緹亞 - 找回的命運",
+        "id":"cutscene_char003501",
+        "version": 4.1
+    },
+    {
+        "name":"艾莉絲 - 受祝福的冒險家",
+        "id":"cutscene_char020001",
+        "version": 4.1
+    },
+    {
+        "name":"艾莉絲 - 只屬於你的貓咪",
+        "id":"cutscene_char020002",
+        "version": 4.1
+    },
+    {
+        "name":"洛琪希 - 受尊敬的師傅",
+        "id":"cutscene_char020101",
+        "version": 4.1
+    },
+    {
+        "name":"洛琪希 - 洩漏的慾望",
+        "id":"cutscene_char020102",
+        "version": 4.1
+    },
+    {
+        "name":"西利亞 - 化裝舞會兔女郎",
+        "id":"cutscene_char060403",
+        "version": 4.1
+    },
+    {
         "name":"char101102",
         "id":"cutscene_char101102",
         "version": 4.1
@@ -65,16 +230,6 @@
     {
         "name":"char002401",
         "id":"char002401",
-        "version": 4.1
-    },
-    {
-        "name":"cutscene_char020001",
-        "id":"cutscene_char020001",
-        "version": 4.1
-    },
-    {
-        "name":"cutscene_char020002",
-        "id":"cutscene_char020002",
         "version": 4.1
     },
     {

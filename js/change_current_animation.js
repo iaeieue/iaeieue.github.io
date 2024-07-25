@@ -29,7 +29,8 @@ const change_spine = (id, assetSpineVersion) => {
         atlasUrl: "/assets/" + id + "/" + id + ".atlas",
         backgroundColor: "2f353a",
         alpha: false,
-        premultipliedAlpha:  premultipliedAlphaValue,
+        // premultipliedAlpha:  premultipliedAlphaValue,
+        premultipliedAlpha:  false,
         preserveDrawingBuffer:true,
         success: function (player) {
             player.play();

@@ -1,7 +1,22 @@
 [
     {
+        "name":"[char] 悠絲緹亞 - 血騎士",
+        "id":"char000201",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 悠絲緹亞 - 皎潔死神",
+        "id":"char000202",
+        "version": 4.1
+    },
+    {
         "name":"悠絲緹亞 - 皎潔死神",
         "id":"cutscene_char000202",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 悠絲緹亞 - 血之貪食者",
+        "id":"char000203",
         "version": 4.1
     },
     {
@@ -10,13 +25,32 @@
         "version": 4.1
     },
     {
+        "name":"[char] 悠絲緹亞 - 劍道社",
+        "id":"char000204",
+        "version": 4.1
+    },
+    {
         "name":"悠絲緹亞 - 劍道社",
         "id":"cutscene_char000204",
         "version": 4.1
     },
     {
+        "name":"[char] 悠絲緹亞 - 泳池派對",
+        "id":"char000206",
+        "version": 4.1
+    },
+    {
         "name":"悠絲緹亞 - 泳池派對",
         "id":"cutscene_char000206",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 莎赫拉查德 - 蒼藍魔女",
+        "id":"char000301",
         "version": 4.1
     },
     {
@@ -25,8 +59,18 @@
         "version": 4.1
     },
     {
+        "name":"[char] 莎赫拉查德 - 魔法學校教授",
+        "id":"char000303",
+        "version": 4.1
+    },
+    {
         "name":"莎赫拉查德 - 魔法學校教授",
         "id":"cutscene_char000303",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 莎赫拉查德 - 代號S",
+        "id":"char000304",
         "version": 4.1
     },
     {
@@ -35,8 +79,27 @@
         "version": 4.1
     },
     {
+        "name":"[char] 莎赫拉查德 - 泳池派對",
+        "id":"char000306",
+        "version": 4.1
+    },
+    {
         "name":"莎赫拉查德 - 泳池派對",
         "id":"cutscene_char000306",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 魯 - 白色貓咪",
+        "id":"char000501",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 魯 - 小紅帽",
+        "id":"char000502",
         "version": 4.1
     },
     {
@@ -45,8 +108,18 @@
         "version": 4.1
     },
     {
+        "name":"[char] 魯 - 自然的腳爪",
+        "id":"char000504",
+        "version": 4.1
+    },
+    {
         "name":"魯 - 自然的腳爪",
         "id":"CutScene_Char000504",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 魯 - 流浪貓",
+        "id":"char000506",
         "version": 4.1
     },
     {
@@ -54,264 +127,13 @@
         "id":"cutscene_char000506",
         "version": 4.1
     },
+
+
+
+
     {
-        "name":"露比雅 - 大海女帝",
-        "id":"cutscene_char000804",
-        "version": 4.1
-    },
-    {
-        "name":"露比雅 - 女僕代號C",
-        "id":"cutscene_char000806",
-        "version": 4.1
-    },
-    {
-        "name":"席比雅 - 沙漠之花",
-        "id":"cutscene_char001001",
-        "version": 4.1
-    },
-    {
-        "name":"席比雅 - 劍后",
-        "id":"cutscene_char001002",
-        "version": 4.1
-    },
-    {
-        "name":"席比雅 - 海軍隊長",
-        "id":"cutscene_char001004",
-        "version": 4.1
-    },
-    {
-        "name":"泰瑞絲 - 破壞的天使",
-        "id":"cutscene_char001101",
-        "version": 4.1
-    },
-    {
-        "name":"泰瑞絲 - 保健社",
-        "id":"cutscene_char001106",
-        "version": 4.1
-    },
-    {
-        "name":"莉亞特里斯 - 羅戴夫之星",
-        "id":"CutScene_Char001201",
-        "version": 4.1
-    },
-    {
-        "name":"莉亞特里斯 - 霓虹跟蹤狂",
-        "id":"cutscene_char001206",
-        "version": 4.1
-    },
-    {
-        "name":"莉亞特里斯 - 女僕代號R",
-        "id":"cutscene_char001207",
-        "version": 4.1
-    },
-    {
-        "name":"黛安娜 - 未知的探究者",
-        "id":"cutscene_char002401",
-        "version": 4.1
-    },
-    {
-        "name":"黛安娜 - 反烏托邦",
-        "id":"cutscene_char002406",
-        "version": 4.1
-    },
-    {
-        "name":"厄爾比斯 - 救贖之手",
-        "id":"cutscene_char003101",
-        "version": 4.1
-    },
-    {
-        "name":"羅安 - 最後希望",
-        "id":"cutscene_char003201",
-        "version": 4.1
-    },
-    {
-        "name":"羅安 - 田徑社社員",
-        "id":"cutscene_char003202",
-        "version": 4.1
-    },
-    {
-        "name":"內布利斯 - 鬆散的救生員",
-        "id":"cutscene_char003302",
-        "version": 4.1
-    },
-    {
-        "name":"神聖悠絲緹亞 - 找回的命運",
-        "id":"cutscene_char003501",
-        "version": 4.1
-    },
-    {
-        "name":"艾莉絲 - 受祝福的冒險家",
-        "id":"cutscene_char020001",
-        "version": 4.1
-    },
-    {
-        "name":"艾莉絲 - 只屬於你的貓咪",
-        "id":"cutscene_char020002",
-        "version": 4.1
-    },
-    {
-        "name":"洛琪希 - 受尊敬的師傅",
-        "id":"cutscene_char020101",
-        "version": 4.1
-    },
-    {
-        "name":"洛琪希 - 洩漏的慾望",
-        "id":"cutscene_char020102",
-        "version": 4.1
-    },
-    {
-        "name":"西利亞 - 化裝舞會兔女郎",
-        "id":"cutscene_char060403",
-        "version": 4.1
-    },
-    {
-        "name":"安娜塔西亞 - 和藹的女僕",
-        "id":"cutscene_char060501",
-        "version": 4.1
-    },
-    {
-        "name":"安娜塔西亞 - 火之塗鴉",
-        "id":"cutscene_char060502",
-        "version": 4.1
-    },
-    {
-        "name":"萊克莉斯 - 安卓女王",
-        "id":"cutscene_char060602",
-        "version": 4.1
-    },
-    {
-        "name":"拉菲娜 - 遊戲社",
-        "id":"cutscene_char060706",
-        "version": 4.1
-    },
-    {
-        "name":"愛麗潔 - 代號O",
-        "id":"cutscene_char060802",
-        "version": 4.1
-    },
-    {
-        "name":"海倫娜 - 頂尖偶像",
-        "id":"cutscene_char061001",
-        "version": 4.1
-    },
-    {
-        "name":"海倫娜 - B級偶像",
-        "id":"cutscene_Char061002",
-        "version": 4.1
-    },
-    {
-        "name":"艾尼爾 - B級偶像",
-        "id":"cutscene_char061102",
-        "version": 4.1
-    },
-    {
-        "name":"達非 - 明月",
-        "id":"cutscene_char061302",
-        "version": 4.1
-    },
-    {
-        "name":"內布利斯 - 鬆散的救生員",
-        "id":"cutscene_char061303",
-        "version": 4.1
-    },
-    {
-        "name":"達非 - 暑假達非",
-        "id":"cutscene_char061305",
-        "version": 4.1
-    },
-    {
-        "name":"傑尼斯 - 羅賓漢",
-        "id":"cutscene_char061402",
-        "version": 4.1
-    },
-    {
-        "name":"尤里 - 白雷",
-        "id":"cutscene_char065102",
-        "version": 4.1
-    },
-    {
-        "name":"尤里 - 回歸偶像",
-        "id":"cutscene_char065103",
-        "version": 4.1
-    },
-    {
-        "name":"安潔莉卡 - 墮落之星",
-        "id":"cutscene_char066401",
-        "version": 4.1
-    },
-    {
-        "name":"安潔莉卡 - 泳池派對",
-        "id":"cutscene_char066402",
-        "version": 4.1
-    },
-    {
-        "name":"安潔莉卡 - 霓虹救星",
-        "id":"cutscene_char066403",
-        "version": 4.1
-    },
-    {
-        "name":"芮彼泰雅 - 貪婪之星",
-        "id":"cutscene_char066801",
-        "version": 4.1
-    },
-    {
-        "name":"芮彼泰雅 - 純白的祝福",
-        "id":"cutscene_char066802",
-        "version": 4.1
-    },
-    {
-        "name":"克蕾西亞 - 愛麗絲",
-        "id":"cutscene_char066902",
-        "version": 4.1
-    },
-    {
-        "name":"克蕾西亞 - 糾察隊",
-        "id":"cutscene_char066906",
-        "version": 4.1
-    },
-    {
-        "name":"班塔納 - 白雪",
-        "id":"cutscene_char067002",
-        "version": 4.1
-    },
-    {
-        "name":"班塔納 - 回歸偶像",
-        "id":"cutscene_char067003",
-        "version": 4.1
-    },
-    {
-        "name":"葛蘭西特 - 虛無之星",
-        "id":"cutscene_char067101",
-        "version": 4.1
-    },
-    {
-        "name":"葛蘭西特 - 回歸偶像",
-        "id":"cutscene_char067102",
-        "version": 4.1
-    },
-    {
-        "name":"貝那卡 - DJ",
-        "id":"cutscene_char067201",
-        "version": 4.1
-    },
-    {
-        "name":"賽爾 - B級偶像",
-        "id":"cutscene_char101102",
-        "version": 4.1
-    },
-    {
-        "name":"黎迪雅 - 實習槍兵",
-        "id":"cutscene_char103301",
-        "version": 4.1
-    },
-    {
-        "name":"莉茲內 - 小獵人",
-        "id":"cutscene_char103401",
-        "version": 4.1
-    },
-    {
-        "name":"比阿特麗絲 - 部族的大戰士",
-        "id":"cutscene_char103501",
+        "name":"[char] 伊柯利普斯 - 空間魔女",
+        "id":"char000701",
         "version": 4.1
     },
     {
@@ -320,13 +142,795 @@
         "version": 4.1
     },
     {
+        "name":"[char] 伊柯利普斯 - 惡夢兔女郎",
+        "id":"char000706",
+        "version": 4.1
+    },
+    {
         "name":"伊柯利普斯 - 惡夢兔女郎",
         "id":"cutscene_char000706",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 露比雅 - 沙漠之刺",
+        "id":"char000801",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 露比雅 - 大海女帝",
+        "id":"char000804",
+        "version": 4.1
+    },
+    {
+        "name":"露比雅 - 大海女帝",
+        "id":"cutscene_char000804",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 露比雅 - 女僕代號C",
+        "id":"char000806",
+        "version": 4.1
+    },
+    {
+        "name":"露比雅 - 女僕代號C",
+        "id":"cutscene_char000806",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 席比雅 - 沙漠之花",
+        "id":"char001001",
+        "version": 4.1
+    },
+    {
+        "name":"席比雅 - 沙漠之花",
+        "id":"cutscene_char001001",
+        "version": 4.1
+    },
+    {
+        "name":"[损坏] 席比雅 - 劍后",
+        "id":"cutscene_char001002",
+        "version": 4.1
+    },
+    {
+        "name":"席比雅 - 劍后",
+        "id":"cutscene_char001002",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 席比雅 - 海軍隊長",
+        "id":"char001004",
+        "version": 4.1
+    },
+    {
+        "name":"席比雅 - 海軍隊長",
+        "id":"cutscene_char001004",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 泰瑞絲 - 破壞的天使",
+        "id":"char001101",
+        "version": 4.1
+    },
+    {
+        "name":"泰瑞絲 - 破壞的天使",
+        "id":"cutscene_char001101",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 泰瑞絲 - 保健社",
+        "id":"char001106",
+        "version": 4.1
+    },
+    {
+        "name":"泰瑞絲 - 保健社",
+        "id":"cutscene_char001106",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 莉亞特里斯 - 羅戴夫之星",
+        "id":"char001201",
+        "version": 4.1
+    },
+    {
+        "name":"莉亞特里斯 - 羅戴夫之星",
+        "id":"CutScene_Char001201",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 莉亞特里斯 - 霓虹跟蹤狂",
+        "id":"char001206",
+        "version": 4.1
+    },
+    {
+        "name":"莉亞特里斯 - 霓虹跟蹤狂",
+        "id":"cutscene_char001206",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 莉亞特里斯 - 女僕代號R",
+        "id":"char001207",
+        "version": 4.1
+    },
+    {
+        "name":"莉亞特里斯 - 女僕代號R",
+        "id":"cutscene_char001207",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 黛安娜 - 未知的探究者",
+        "id":"char002401",
+        "version": 4.1
+    },
+    {
+        "name":"黛安娜 - 未知的探究者",
+        "id":"cutscene_char002401",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 黛安娜 - 反烏托邦",
+        "id":"char002406",
+        "version": 4.1
+    },
+    {
+        "name":"黛安娜 - 反烏托邦",
+        "id":"cutscene_char002406",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"蕾拉 - 創造的鐵砧",
+        "id":"char003001",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"厄爾比斯 - 救贖之手",
+        "id":"cutscene_char003101",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"羅安 - 最後希望",
+        "id":"cutscene_char003201",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 羅安 - 田徑社社員",
+        "id":"char003202",
+        "version": 4.1
+    },
+    {
+        "name":"羅安 - 田徑社社員",
+        "id":"cutscene_char003202",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 內布利斯 - 鬆散的救生員",
+        "id":"char003302",
+        "version": 4.1
+    },
+    {
+        "name":"內布利斯 - 鬆散的救生員",
+        "id":"cutscene_char003302",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 神聖悠絲緹亞 - 找回的命運",
+        "id":"char003501",
+        "version": 4.1
+    },
+    {
+        "name":"神聖悠絲緹亞 - 找回的命運",
+        "id":"cutscene_char003501",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 艾莉絲 - 受祝福的冒險家",
+        "id":"char020001",
+        "version": 4.1
+    },
+    {
+        "name":"艾莉絲 - 受祝福的冒險家",
+        "id":"cutscene_char020001",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 艾莉絲 - 只屬於你的貓咪",
+        "id":"char020002",
+        "version": 4.1
+    },
+    {
+        "name":"艾莉絲 - 只屬於你的貓咪",
+        "id":"cutscene_char020002",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 洛琪希 - 受尊敬的師傅",
+        "id":"char020101",
+        "version": 4.1
+    },
+    {
+        "name":"洛琪希 - 受尊敬的師傅",
+        "id":"cutscene_char020101",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 洛琪希 - 洩漏的慾望",
+        "id":"char020102",
+        "version": 4.1
+    },
+    {
+        "name":"洛琪希 - 洩漏的慾望",
+        "id":"cutscene_char020102",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 西利亞 - 詛咒之星",
+        "id":"char101601",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 西利亞 - 大魔女的後裔",
+        "id":"char060402",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 西利亞 - 化裝舞會兔女郎",
+        "id":"char060403",
+        "version": 4.1
+    },
+    {
+        "name":"西利亞 - 化裝舞會兔女郎",
+        "id":"cutscene_char060403",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 安娜塔西亞 - 和藹的女僕",
+        "id":"char060501",
+        "version": 4.1
+    },
+    {
+        "name":"安娜塔西亞 - 和藹的女僕",
+        "id":"cutscene_char060501",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 安娜塔西亞 - 火之塗鴉",
+        "id":"char060502",
+        "version": 4.1
+    },
+    {
+        "name":"安娜塔西亞 - 火之塗鴉",
+        "id":"cutscene_char060502",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 萊克莉斯 - 殺人娃娃",
+        "id":"char060601",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 萊克莉斯 - 安卓女王",
+        "id":"char060602",
+        "version": 4.1
+    },
+    {
+        "name":"萊克莉斯 - 安卓女王",
+        "id":"cutscene_char060602",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 拉菲娜 - 鋼鐵引擎",
+        "id":"char060701",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 拉菲娜 - 代號A",
+        "id":"char060702",
+        "version": 4.1
+    },
+    {
+        "name":"[损坏] 拉菲娜 - 遊戲社",
+        "id":"cutscene_char060706",
+        "version": 4.1
+    },
+    {
+        "name":"拉菲娜 - 遊戲社",
+        "id":"cutscene_char060706",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 愛麗潔 - 可愛的小姐",
+        "id":"char060801",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 愛麗潔 - 代號O",
+        "id":"char060802",
+        "version": 4.1
+    },
+    {
+        "name":"愛麗潔 - 代號O",
+        "id":"cutscene_char060802",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 海倫娜 - 頂尖偶像",
+        "id":"char061001",
+        "version": 4.1
+    },
+    {
+        "name":"海倫娜 - 頂尖偶像",
+        "id":"cutscene_char061001",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 海倫娜 - B級偶像",
+        "id":"char061002",
+        "version": 4.1
+    },
+    {
+        "name":"海倫娜 - B級偶像",
+        "id":"cutscene_Char061002",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 艾尼爾 - 貫穿的魔弓",
+        "id":"char061101",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 艾尼爾 - B級偶像",
+        "id":"char061102",
+        "version": 4.1
+    },
+    {
+        "name":"艾尼爾 - B級偶像",
+        "id":"cutscene_char061102",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"達非 - 明月",
+        "id":"cutscene_char061302",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 達非 - 暑假達非",
+        "id":"char061305",
+        "version": 4.1
+    },
+    {
+        "name":"達非 - 暑假達非",
+        "id":"cutscene_char061305",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 傑尼斯 - 羅賓漢",
+        "id":"char061402",
+        "version": 4.1
+    },
+    {
+        "name":"傑尼斯 - 羅賓漢",
+        "id":"cutscene_char061402",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 英格利得 - 卡迪斯的子彈",
+        "id":"char063001",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 辛西亞 - 酷寒中的熱氣",
+        "id":"char063301",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 茱莉 - 恢復師",
+        "id":"char063401",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 尤里 - 白雷",
+        "id":"char065102",
+        "version": 4.1
+    },
+    {
+        "name":"尤里 - 白雷",
+        "id":"cutscene_char065102",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 尤里 - 回歸偶像",
+        "id":"Char065103",
+        "version": 4.1
+    },
+    {
+        "name":"尤里 - 回歸偶像",
+        "id":"cutscene_char065103",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 安潔莉卡 - 墮落之星",
+        "id":"char066401",
+        "version": 4.1
+    },
+    {
+        "name":"安潔莉卡 - 墮落之星",
+        "id":"cutscene_char066401",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 安潔莉卡 - 泳池派對",
+        "id":"char066402",
+        "version": 4.1
+    },
+    {
+        "name":"安潔莉卡 - 泳池派對",
+        "id":"cutscene_char066402",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 安潔莉卡 - 霓虹救星",
+        "id":"char066403",
+        "version": 4.1
+    },
+    {
+        "name":"安潔莉卡 - 霓虹救星",
+        "id":"cutscene_char066403",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 芮彼泰雅 - 貪婪之星",
+        "id":"char066801",
+        "version": 4.1
+    },
+    {
+        "name":"芮彼泰雅 - 貪婪之星",
+        "id":"cutscene_char066801",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 芮彼泰雅 - 純白的祝福",
+        "id":"char066802",
+        "version": 4.1
+    },
+    {
+        "name":"芮彼泰雅 - 純白的祝福",
+        "id":"cutscene_char066802",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 克蕾西亞 - 愛麗絲",
+        "id":"char066902",
+        "version": 4.1
+    },
+    {
+        "name":"克蕾西亞 - 愛麗絲",
+        "id":"cutscene_char066902",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 克蕾西亞 - 糾察隊",
+        "id":"char066906",
+        "version": 4.1
+    },
+    {
+        "name":"克蕾西亞 - 糾察隊",
+        "id":"cutscene_char066906",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 班塔納 - 白雪",
+        "id":"char067002",
+        "version": 4.1
+    },
+    {
+        "name":"班塔納 - 白雪",
+        "id":"cutscene_char067002",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 班塔納 - 回歸偶像",
+        "id":"Char067003",
+        "version": 4.1
+    },
+    {
+        "name":"班塔納 - 回歸偶像",
+        "id":"cutscene_char067003",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 葛蘭西特 - 虛無之星",
+        "id":"char067101",
+        "version": 4.1
+    },
+    {
+        "name":"葛蘭西特 - 虛無之星",
+        "id":"cutscene_char067101",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 葛蘭西特 - 回歸偶像",
+        "id":"char067102",
+        "version": 4.1
+    },
+    {
+        "name":"葛蘭西特 - 回歸偶像",
+        "id":"cutscene_char067102",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 貝那卡 - DJ",
+        "id":"char067201",
+        "version": 4.1
+    },
+    {
+        "name":"貝那卡 - DJ",
+        "id":"cutscene_char067201",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 萊維亞 - 田徑社社長",
+        "id":"char067301",
         "version": 4.1
     },
     {
         "name":"萊維亞 - 田徑社社長",
         "id":"cutscene_char067301",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 莉西安 - 流浪神職人員",
+        "id":"char100301",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 盧克雷齊亞 - 誘惑的翅膀",
+        "id":"char100601",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 維爾尼 - 義賊少女",
+        "id":"char100801",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 賽爾 - 惡魔之女",
+        "id":"char101101",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 賽爾 - B級偶像",
+        "id":"char101102",
+        "version": 4.1
+    },
+    {
+        "name":"賽爾 - B級偶像",
+        "id":"cutscene_char101102",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 艾瑪 - 難伺候的問題學生",
+        "id":"char101301",
+        "version": 4.1
+    },
+    {
+        "name":"[char] 艾瑪 - 學校女王",
+        "id":"char101302",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 莎美 - 和藹的學生",
+        "id":"char101402",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 黎迪雅 - 實習槍兵",
+        "id":"char103301",
+        "version": 4.1
+    },
+    {
+        "name":"黎迪雅 - 實習槍兵",
+        "id":"cutscene_char103301",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 莉茲內 - 小獵人",
+        "id":"char103401",
+        "version": 4.1
+    },
+    {
+        "name":"莉茲內 - 小獵人",
+        "id":"cutscene_char103401",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 比阿特麗絲 - 部族的大戰士",
+        "id":"char103501",
+        "version": 4.1
+    },
+    {
+        "name":"比阿特麗絲 - 部族的大戰士",
+        "id":"cutscene_char103501",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 瑪麗亞 - 大魔法師",
+        "id":"char103601",
+        "version": 4.1
+    },
+
+
+
+
+    {
+        "name":"[char] 阿里內斯 - 活力的祭司",
+        "id":"char103701",
         "version": 4.1
     }
 ]

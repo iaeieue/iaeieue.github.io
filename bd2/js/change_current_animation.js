@@ -25,8 +25,8 @@ const change_spine = (id, assetSpineVersion) => {
 
     current_spine = new runtimeSpineVersion.SpinePlayer("player-container", {
         // jsonUrl: "/assets/" + id + "/" + id + ".json",
-        skelUrl: "/assets/" + id + "/" + id + ".skel",
-        atlasUrl: "/assets/" + id + "/" + id + ".atlas",
+        skelUrl: "/bd2/assets/" + id + "/" + id + ".skel",
+        atlasUrl: "/bd2/assets/" + id + "/" + id + ".atlas",
         backgroundColor: "2f353a",
         alpha: false,
         premultipliedAlpha:  false,

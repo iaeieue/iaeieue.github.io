@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/spine-player.css">
+    <link rel="stylesheet" href="css/index.css">
+    <style>
+        /* 隐藏容器 */
+        #visualiserMain {
+            /* 展开时的宽度 */
+            /* 高度占满整个视口 */
+            /* 背景色 */
+            position: fixed;
+            /* 固定定位在屏幕左侧 */
+            top: 100px;
+            left: -500px;
+            /* 默认完全隐藏在左侧 */
+            transition: left 0.3s ease;
+            /* 平滑过渡效果 */
+        }
+
+        /* 齿轮图标样式 */
+        #gearIcon {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            cursor: pointer;
+            color: white;
+        }
+
+        /* 展开容器的样式 */
+        #visualiserMain.show {
+            left: 0;
+            /* 展开时将容器显示 */
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- The spine animation will be displayed automatically inside this div -->
+    <div id="player-container" style="height:100vh; position:absolute; left:0px; top:0px">
+
+    </div>
+
+    <!-- <div id="premutipliedToggle">
+        <input checked type="checkbox" id="checkboxPremultipliedToggle"/>
+        <label for="checkboxPremultipliedToggle">premultipliedAlpha</label>
+    </div> -->
+
+    <!-- 齿轮图标，点击时切换容器的显示状态 -->
+    <div id="gearIcon">&#9881;</div>
+
+    <div id="visualiserMain"></div>
+
+    <script src="spine/spine-player40.js"></script>
+    <script src="spine/spine-player41.js"></script>
+
+    <script src="js/make_list.js"></script>
+
+    <script src="js/change_current_animation.js"></script>
+
+    <script src="js/zoom&drag.js"></script>
+    <script src="js/toggles.js"></script>
+
+    <script>
+        // 获取齿轮图标和容器元素
+        const gearIcon = document.getElementById('gearIcon');
+        const visualiserMain = document.getElementById('visualiserMain');
+
+        // 为齿轮图标添加点击事件监听器
+        gearIcon.addEventListener('click', () => {
+            // 切换容器的显示状态
+            visualiserMain.classList.toggle('show');
+        });
+    </script>
+</body>
+
+</html>

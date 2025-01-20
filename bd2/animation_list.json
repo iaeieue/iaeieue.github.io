@@ -58,5 +58,20 @@
         "name": "莱维亚 - 田径社社长",
         "id": "cutscene_char067301",
         "version": 4.1
+    },
+    {
+        "name": "海伦娜 - B级偶像",
+        "id": "cutscene_Char061002",
+        "version": 4.1
+    },
+    {
+        "name": "葛兰西特 - 虚无之星",
+        "id": "cutscene_char067101",
+        "version": 4.1
+    },
+    {
+        "name": "比阿特丽丝 - 部族的大战士",
+        "id": "char103501",
+        "version": 4.1
     }
 ]

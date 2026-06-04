@@ -78,5 +78,10 @@
         "name": "马莫尼勒 - 奇迹海洋",
         "id": "cutscene_char067803",
         "version": 4.1
+    },
+    {
+        "name": "dating",
+        "id": "illust_dating18",
+        "version": 4.1
     }
 ]
